@@ -1,0 +1,200 @@
+{
+  "personal": {
+    "name": "Bhavik Shah",
+    "title": "Senior React & Next.js Developer",
+    "tagline": "Building scalable, high-performance SaaS applications with clean architecture & modern UI.",
+    "location": "Surat, Gujarat, India",
+    "experience": "3.5+",
+    "email": "bhavikshah@example.com",
+    "linkedin": "https://linkedin.com/in/bhavikshah",
+    "github": "https://github.com/bhavikshah",
+    "resumeUrl": "/resume.pdf"
+  },
+  "about": {
+    "summary": "A passionate Senior React & Next.js Developer with over 3.5 years of hands-on experience building enterprise-grade applications. I specialize in creating ERP, CRM, HRMS, Accounting, and SaaS platforms that drive business growth.",
+    "highlights": [
+      "3.5+ years of professional experience in React ecosystem",
+      "Built and deployed 4+ production SaaS platforms",
+      "Expert in performance optimization & reusable architecture",
+      "Created custom NPM UI library used across multiple projects"
+    ],
+    "philosophy": {
+      "title": "My Development Philosophy",
+      "principles": [
+        {
+          "title": "Clean Code",
+          "description": "Writing readable, maintainable code that stands the test of time"
+        },
+        {
+          "title": "Modular Architecture",
+          "description": "Building reusable components and scalable folder structures"
+        },
+        {
+          "title": "Scalable UI Systems",
+          "description": "Creating design systems that grow with your product"
+        }
+      ]
+    }
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Frontend",
+        "icon": "Monitor",
+        "items": ["React", "Next.js", "TypeScript", "Redux Toolkit"]
+      },
+      {
+        "name": "Forms & Validation",
+        "icon": "FileCheck",
+        "items": ["React Hook Form", "Zod", "Yup"]
+      },
+      {
+        "name": "UI Libraries",
+        "icon": "Palette",
+        "items": ["Tailwind CSS", "MUI", "Ant Design", "AG Grid"]
+      },
+      {
+        "name": "State & Data",
+        "icon": "Database",
+        "items": ["TanStack Query", "Axios", "Context API"]
+      },
+      {
+        "name": "Tools & DevOps",
+        "icon": "Settings",
+        "items": ["Git", "NPM", "Turbo Repo", "Vite"]
+      },
+      {
+        "name": "Payments & Auth",
+        "icon": "Shield",
+        "items": ["Razorpay", "Stripe", "OTP", "Google Authenticator"]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Codezee Solutions",
+      "role": "Senior React / Next.js Developer",
+      "period": "2022 - Present",
+      "location": "Surat, India",
+      "projects": [
+        {
+          "name": "Diamond Accounting & Sales Software",
+          "description": "Built a comprehensive accounting and sales management platform for the diamond industry"
+        },
+        {
+          "name": "HRMS Platform",
+          "description": "Developed a full-featured Human Resource Management System with attendance, payroll, and leave management"
+        },
+        {
+          "name": "Internal NPM UI Library (sixtify-brahma)",
+          "description": "Created and maintained a custom component library used across all company projects"
+        },
+        {
+          "name": "Donation & Payment Platforms",
+          "description": "Built secure donation portals with integrated payment gateways"
+        }
+      ]
+    },
+    {
+      "company": "Trueline Solution",
+      "role": "React Developer",
+      "period": "2021 - 2022",
+      "location": "Surat, India",
+      "projects": [
+        {
+          "name": "CRM Platform",
+          "description": "Developed a customer relationship management system for sales teams"
+        },
+        {
+          "name": "WhatsApp Marketing Automation",
+          "description": "Built automated marketing tools integrated with WhatsApp Business API"
+        }
+      ]
+    },
+    {
+      "company": "Tagline Infotech",
+      "role": "React Intern",
+      "period": "2020 - 2021",
+      "location": "Surat, India",
+      "projects": [
+        {
+          "name": "Employee Tracking System",
+          "description": "Contributed to building an employee management and tracking application"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Diamond Accounting SaaS",
+      "description": "A comprehensive accounting and inventory management platform tailored for the diamond industry. Features include multi-currency support, advanced reporting, and real-time inventory tracking.",
+      "techStack": ["Next.js", "TypeScript", "Redux Toolkit", "AG Grid", "Tailwind CSS"],
+      "impact": "Reduced manual accounting time by 60% for 50+ diamond businesses",
+      "image": "diamond"
+    },
+    {
+      "title": "HRMS Platform",
+      "description": "Full-featured Human Resource Management System with modules for attendance tracking, payroll processing, leave management, and employee onboarding.",
+      "techStack": ["React", "TypeScript", "TanStack Query", "MUI", "React Hook Form"],
+      "impact": "Managing 1000+ employees across multiple organizations",
+      "image": "hrms"
+    },
+    {
+      "title": "Donation & Petition Platform",
+      "description": "A secure platform for NGOs to collect donations and manage petition campaigns with integrated payment gateways and donor management.",
+      "techStack": ["Next.js", "Razorpay", "Stripe", "PostgreSQL", "Tailwind CSS"],
+      "impact": "Processed ₹50L+ in donations with 99.9% uptime",
+      "image": "donation"
+    },
+    {
+      "title": "Giveaway Platform",
+      "description": "Social media giveaway management platform with entry tracking, winner selection algorithms, and analytics dashboard.",
+      "techStack": ["React", "Node.js", "MongoDB", "Redis", "Socket.io"],
+      "impact": "Hosted 500+ successful giveaways with 100K+ participants",
+      "image": "giveaway"
+    },
+    {
+      "title": "CRM & WhatsApp Automation",
+      "description": "Customer relationship management system with integrated WhatsApp Business API for automated marketing campaigns and customer support.",
+      "techStack": ["React", "WhatsApp API", "Node.js", "PostgreSQL", "Bull Queue"],
+      "impact": "Increased customer engagement by 40% for 20+ businesses",
+      "image": "crm"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Computer Applications (MCA)",
+      "institution": "Gujarat Technological University",
+      "period": "2019 - 2021",
+      "location": "Gujarat, India"
+    },
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Veer Narmad South Gujarat University",
+      "period": "2016 - 2019",
+      "location": "Gujarat, India"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "4+ Production SaaS Platforms",
+      "description": "Successfully built and deployed multiple SaaS applications serving thousands of users",
+      "icon": "Rocket"
+    },
+    {
+      "title": "Custom NPM UI Library",
+      "description": "Created sixtify-brahma, an internal component library standardizing UI across projects",
+      "icon": "Package"
+    },
+    {
+      "title": "Secure Auth Integrations",
+      "description": "Implemented multi-factor authentication with OTP and Google Authenticator",
+      "icon": "ShieldCheck"
+    },
+    {
+      "title": "Team Mentorship",
+      "description": "Mentored junior developers, conducting code reviews and knowledge sessions",
+      "icon": "Users"
+    }
+  ]
+}
