@@ -1,7 +1,7 @@
 {
   "personal": {
     "name": "Bhavik Shah",
-    "title": "Senior React & Next.js Developer",
+    "title": "React & Next.js Developer",
     "tagline": "Building scalable, high-performance SaaS applications with clean architecture & modern UI.",
     "location": "Surat, Gujarat, India",
     "experience": "4.5+",
@@ -11,7 +11,7 @@
     "resumeUrl": "/resume.pdf"
   },
   "about": {
-    "summary": "A passionate Senior React & Next.js Developer with over 3.5 years of hands-on experience building enterprise-grade applications. I specialize in creating ERP, CRM, HRMS, Accounting, and SaaS platforms that drive business growth.",
+    "summary": "A passionate React & Next.js Developer with over 3.5 years of hands-on experience building enterprise-grade applications. I specialize in creating ERP, CRM, HRMS, Accounting, and SaaS platforms that drive business growth.",
     "highlights": [
       "4.5+ years of professional experience in React ecosystem",
       "Built and deployed 4+ production SaaS platforms",
